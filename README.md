@@ -18,3 +18,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metosint&show_icons=true&theme=radical)
 
+<div align="center">
+  <img src="assets/scout-wings.svg" alt="Scout Regiment" width="100"/>
+  <h2>metosint</h2>
+  <p>«If you win, you live. If you lose, you die. If you don't fight, you can't win!»</p>
+</div>
