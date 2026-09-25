@@ -1,4 +1,4 @@
-🐉 *metosint*/ coder
+🐉 *metosint* coder
 
 ---
 
@@ -23,5 +23,5 @@
 
 ### Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metosint&show_icons=true&theme=radical)
 
